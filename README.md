@@ -4,7 +4,7 @@
 ---
 
 ## 🧑‍💻 Sobre mí / About Me
-
+I'm a software developer in training, currently working on a project at Riwi and learning how to program. I'm passionate about motorbikes and traveling to different cities
 
 
 
