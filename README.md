@@ -1,4 +1,14 @@
-## Hi there 👋
+<h1 align="center">👋 ¡Hola! Soy Silvio Barrios / Hi there! I'm Silvio Barrios</h1>
+<h3 align="center">🚀 Desarrollador De Software en entrenamiento| Software Developer in training</h3>
+
+---
+
+## 🧑‍💻 Sobre mí / About Me
+
+
+
+
+
 
 <!--
 **silvio1615/silvio1615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
